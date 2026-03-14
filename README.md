@@ -47,11 +47,11 @@ I'm a passionate **Full-Stack Software Engineer** and **Infrastructure Architect
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Deutsche Bank System](https://github.com/ZEINO2022/deutsche-bank-system)** | Enterprise banking solution with SWIFT/SEPA transfers, crypto payments & infrastructure as code | Python, FastAPI, Solidity, Docker, AWS |
+|---------|-------------|------------|
 | **[MT103 Secure Transfer](https://github.com/ZEINO2022/mt103-secure-transfer)** | Production-grade MT103 transfer platform with digital signatures & high availability infrastructure | JavaScript, Node.js, PostgreSQL, Kubernetes |
-| **[Next.js Commerce](https://github.com/ZEINO2022/nextjs-commerce)** | High-performance e-commerce platform with scalable infrastructure & payment system integration | TypeScript, Next.js, AWS, Redis |
 | **Infrastructure Management Suite** | Comprehensive DevOps solutions for enterprise financial systems | Terraform, Docker, Kubernetes, GitHub Actions |
+| **Banking Compliance Engine** | AML/KYC compliance automation platform for financial institutions | Python, FastAPI, PostgreSQL, Docker |
+| **Cloud DevOps Toolkit** | Reusable IaC modules and CI/CD templates for cloud-native deployments | Terraform, AWS, GitHub Actions, Helm |
 
 ### 📊 GitHub Stats
 
@@ -62,11 +62,11 @@ I'm a passionate **Full-Stack Software Engineer** and **Infrastructure Architect
 
 ### 🎯 What I Do Best
 
-✨ **Design**: Architecting scalable, secure systems for enterprise and fintech solutions  
-⚙️ **Build**: Developing robust backend services and financial platforms  
-🔒 **Secure**: Implementing security best practices and compliance standards  
-📈 **Scale**: Managing infrastructure that grows with your business  
-🚀 **Automate**: Creating efficient CI/CD pipelines and DevOps workflows  
+✨ **Design**: Architecting scalable, secure systems for enterprise and fintech solutions
+⚙️ **Build**: Developing robust backend services and financial platforms
+🔒 **Secure**: Implementing security best practices and compliance standards
+📈 **Scale**: Managing infrastructure that grows with your business
+🚀 **Automate**: Creating efficient CI/CD pipelines and DevOps workflows
 
 ### 🤝 Let's Connect
 
