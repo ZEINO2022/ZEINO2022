@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm MOHAMAD 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | Fintech Architect</strong><br>
-  Building secure banking systems with modern technologies
+  <strong>Full-Stack Software Engineer | Fintech & Infrastructure Architect</strong><br>
+  Designing secure, scalable banking systems and enterprise infrastructure solutions
 </p>
 
 <p align="center">
@@ -15,27 +15,43 @@
 
 ### 🏗️ About Me
 
-I'm a passionate Full-Stack Software Engineer specializing in **Fintech Architecture** and **Banking Systems**. I focus on building secure, compliant financial solutions that meet international standards including **SWIFT MT103**, **SEPA**, and **AML/KYC** compliance.
+I'm a passionate **Full-Stack Software Engineer** and **Infrastructure Architect** specializing in:
+- **Fintech Architecture**: Building secure, compliant financial solutions with SWIFT MT103, SEPA, and AML/KYC compliance
+- **Enterprise Infrastructure**: Designing and managing scalable cloud infrastructure, containerization, and DevOps pipelines
+- **Financial Systems Management**: Architecting enterprise banking solutions, payment systems, and financial data management platforms
+- **System Administration**: Managing complex distributed systems, microservices, and cloud-native architectures
+
+### 💼 Core Expertise
+
+| Domain | Specializations |
+|--------|-----------------|
+| **Financial Architecture** | SWIFT/SEPA Standards, MT103 Transfers, AML/KYC Compliance, Payment Gateways, Digital Signatures |
+| **Infrastructure & DevOps** | Cloud Architecture (AWS), Docker Containerization, Kubernetes Orchestration, CI/CD Pipelines, GitOps |
+| **Enterprise Systems** | Microservices Design, Database Optimization, Load Balancing, Disaster Recovery, High Availability |
+| **Security & Compliance** | Cryptography, SSL/TLS, Digital Certificates, Security Audits, Data Protection Standards |
 
 ### 🔧 Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, JavaScript, TypeScript, Go, Solidity |
-| **Backend** | FastAPI, Flask, Node.js |
-| **Frontend** | React, Next.js |
-| **Blockchain** | Ethereum, TRON, Smart Contracts |
-| **Database** | Supabase, PostgreSQL |
-| **DevOps** | Docker, GitHub Actions, AWS |
-| **Security** | Cryptography, Digital Signatures, SSL/TLS |
+| **Languages** | Python, JavaScript, TypeScript, Go, Solidity, Bash |
+| **Backend** | FastAPI, Flask, Node.js, Django |
+| **Frontend** | React, Next.js, Vue.js |
+| **Infrastructure** | Docker, Kubernetes, AWS (EC2, RDS, S3, Lambda), Terraform |
+| **Databases** | PostgreSQL, Supabase, MongoDB, Redis |
+| **DevOps & CI/CD** | GitHub Actions, GitLab CI, Jenkins, Docker Compose |
+| **Monitoring** | ELK Stack, Prometheus, Grafana |
+| **Blockchain** | Ethereum, TRON, Smart Contracts, Web3 |
+| **Security** | Cryptography, Digital Signatures, PKI, SSL/TLS, Vault |
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Deutsche Bank System](https://github.com/ZEINO2022/deutsche-bank-system)** | Enterprise banking solution with SWIFT/SEPA transfers & crypto payments | Python, FastAPI, Solidity |
-| **[MT103 Secure Transfer](https://github.com/ZEINO2022/mt103-secure-transfer)** | Production-grade MT103 transfer app with digital signatures | JavaScript, Node.js |
-| **[Next.js Commerce](https://github.com/ZEINO2022/nextjs-commerce)** | High-performance e-commerce application | TypeScript, Next.js |
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Deutsche Bank System](https://github.com/ZEINO2022/deutsche-bank-system)** | Enterprise banking solution with SWIFT/SEPA transfers, crypto payments & infrastructure as code | Python, FastAPI, Solidity, Docker, AWS |
+| **[MT103 Secure Transfer](https://github.com/ZEINO2022/mt103-secure-transfer)** | Production-grade MT103 transfer platform with digital signatures & high availability infrastructure | JavaScript, Node.js, PostgreSQL, Kubernetes |
+| **[Next.js Commerce](https://github.com/ZEINO2022/nextjs-commerce)** | High-performance e-commerce platform with scalable infrastructure & payment system integration | TypeScript, Next.js, AWS, Redis |
+| **Infrastructure Management Suite** | Comprehensive DevOps solutions for enterprise financial systems | Terraform, Docker, Kubernetes, GitHub Actions |
 
 ### 📊 GitHub Stats
 
@@ -44,12 +60,25 @@ I'm a passionate Full-Stack Software Engineer specializing in **Fintech Architec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEINO2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
+### 🎯 What I Do Best
+
+✨ **Design**: Architecting scalable, secure systems for enterprise and fintech solutions  
+⚙️ **Build**: Developing robust backend services and financial platforms  
+🔒 **Secure**: Implementing security best practices and compliance standards  
+📈 **Scale**: Managing infrastructure that grows with your business  
+🚀 **Automate**: Creating efficient CI/CD pipelines and DevOps workflows  
+
 ### 🤝 Let's Connect
 
-I'm always open to collaborating on fintech projects and innovative banking solutions. Feel free to reach out!
+I'm always open to collaborating on:
+- Fintech and banking infrastructure projects
+- Enterprise system design and optimization
+- Cloud infrastructure and DevOps solutions
+- Innovative financial technology solutions
 
 <p align="center">
   <a href="https://twitter.com/AboAlze15780251"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://github.com/ZEINO2022"><img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
